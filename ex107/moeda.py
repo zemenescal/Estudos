@@ -1,4 +1,4 @@
-# Defunição da funções
+# Definição da funções
 def aumentar(preco,taxa):
     res = preco + (preco * taxa / 100)
     return res
